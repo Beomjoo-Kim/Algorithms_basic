@@ -1,6 +1,7 @@
 package practice;
 
-public class SelectionSort {  //선택정렬 = 가장 작은것을 선택하여 맨 앞으로
+public class SelectionSort {  
+	//선택정렬 = 가장 작은것을 선택하여 맨 앞으로
 
 	public static void main(String[] args) {
 		int[] input = {1, 10, 5, 8, 7, 6, 4, 3, 2 ,9};
